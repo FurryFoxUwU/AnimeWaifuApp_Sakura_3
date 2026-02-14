@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#FFE4F0"
+        android:pathData="M16,1 A15,15 0 1 1 0.999,16 A15,15 0 1 1 16,1Z"/>
+
+    <!-- Face -->
+    <path
+        android:fillColor="#FFB6D9"
+        android:pathData="M16,8 Q10,7 8,13 Q6,19 10,23 Q13,26 16,26 Q19,26 22,23 Q26,19 24,13 Q22,7 16,8Z"/>
+
+    <!-- Left eye -->
+    <path
+        android:fillColor="#222222"
+        android:pathData="M13,14 A2,2 0 1 1 10.999,16 A2,2 0 1 1 13,14Z"/>
+
+    <!-- Right eye -->
+    <path
+        android:fillColor="#222222"
+        android:pathData="M19,14 A2,2 0 1 1 16.999,16 A2,2 0 1 1 19,14Z"/>
+
+    <!-- Mouth -->
+    <path
+        android:strokeColor="#FF69B4"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M13,19 Q16,21 19,19"/>
+
+    <!-- Hair -->
+    <path
+        android:fillColor="#8B4789"
+        android:pathData="M16,5 Q10,6 9,12 L10,12 Q11,7 16,5Z"/>
+    <path
+        android:fillColor="#8B4789"
+        android:pathData="M16,5 Q22,6 23,12 L22,12 Q21,7 16,5Z"/>
+
+</vector>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Pink background -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M0,0 L108,0 L108,108 L0,108 Z"/>
+
+    <!-- Face -->
+    <path
+        android:fillColor="#FFB6D9"
+        android:pathData="M54,28 Q40,24 34,38 Q28,52 34,64 Q40,72 54,72 Q68,72 74,64 Q80,52 74,38 Q68,24 54,28Z"/>
+
+    <!-- Left eye -->
+    <path
+        android:fillColor="#333333"
+        android:pathData="M44,46 A5,5 0 1 1 43.9,46 Z"/>
+
+    <!-- Right eye -->
+    <path
+        android:fillColor="#333333"
+        android:pathData="M64,46 A5,5 0 1 1 63.9,46 Z"/>
+
+    <!-- Left sparkle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,44 A2,2 0 1 1 44.9,44 Z"/>
+
+    <!-- Right sparkle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,44 A2,2 0 1 1 64.9,44 Z"/>
+
+    <!-- Smile -->
+    <path
+        android:strokeColor="#E91E63"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M46,58 Q54,64 62,58"/>
+
+    <!-- Hair -->
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M54,18 Q36,20 32,42 Q28,30 38,22 Q42,14 50,16 Q52,12 54,18Z"/>
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M54,18 Q72,20 76,42 Q80,30 70,22 Q66,14 58,16 Q56,12 54,18Z"/>
+
+    <!-- Bangs -->
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M48,28 Q45,32 45,38 L48,38 Q50,32 48,28Z"/>
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M54,25 Q51,29 51,35 L54,35 Q56,29 54,25Z"/>
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M60,28 Q57,32 57,38 L60,38 Q62,32 60,28Z"/>
+
+</vector>
